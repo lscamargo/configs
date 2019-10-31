@@ -146,4 +146,6 @@ map <f8> :TagbarToggle<CR>
 
 nnoremap <silent> <Leader>b :TagbarToggle<CR>
 
+set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<,space:@
+
 " EOF
